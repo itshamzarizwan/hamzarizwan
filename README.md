@@ -6,7 +6,7 @@
 - 🌱 **Learning:** Azure, Fast API, App Development, and Deep Learning.
 - 💬 **Ask Me About:** Data Science, Data Analysis, Artificial Intelligence, Machine Learning and more.
 - 📫 **How to reach me:** hamza_rizwan@hotmail.com
-- 📄 **Resume:** [View My Full CV](https://drive.google.com/file/d/1mRBoHQeYZc9VpW-hoi1QV_qBDGmmOpVc/view?usp=sharing)
+- 📄 **Resume:** [View My Full CV](https://drive.google.com/file/d/19ERC3bU_5UIwEqu-evYRbt4gNFJKpVMU/view?usp=sharing)
 
 ---
 
