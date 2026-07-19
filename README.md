@@ -11,7 +11,7 @@
 
 ### 👨‍💻 About Me
 
-- 🎓 Bachelor of Data Science student at University of Central Punjab (GPA: 3.33)
+- 🎓 Bachelor of Data Science at University of Central Punjab (GPA: 3.33)
 - 🔭 **Currently building:** a full-fledged AI-powered e-commerce marketplace, leveraging Gemini, Vertex AI, and other ML/DL models
 - 🌱 **Currently learning:** Azure, FastAPI, App Development, and Deep Learning
 - 💡 **I work on:** ETL pipelines, data warehousing, BI dashboards, RAG systems, and AI-powered mobile apps
